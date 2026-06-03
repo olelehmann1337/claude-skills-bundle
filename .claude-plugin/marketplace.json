@@ -1,0 +1,20 @@
+{
+  "name": "claude-skills-bundle",
+  "owner": {
+    "name": "Ole Lehmann",
+    "url": "https://www.theaisolopreneur.com"
+  },
+  "metadata": {
+    "description": "The Claude Skills Bundle — 5 beginner-friendly AI skills for building, writing, and polishing your work.",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "claude-skills-bundle",
+      "source": "./plugins/claude-skills-bundle",
+      "description": "5 skills to get anyone started with AI: build a landing page, write your copy, polish any draft, make writing sound human, and pressure-test any decision with a council of AI advisors.",
+      "version": "1.0.0",
+      "tags": ["beginner", "copywriting", "landing-pages", "editing", "decision-making", "solopreneur", "claude-cowork"]
+    }
+  ]
+}
