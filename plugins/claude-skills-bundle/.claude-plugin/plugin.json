@@ -4,8 +4,7 @@
   "version": "1.0.0",
   "description": "5 beginner-friendly AI skills for solopreneurs and creators: build a landing page from a plain-language idea, write copy that converts, polish any draft through 9 editing passes, strip the AI tells out of your writing, and run any decision past a council of 5 AI advisors.",
   "author": {
-    "name": "Ole Lehmann",
-    "url": "https://www.theaisolopreneur.com"
+    "name": "Ole Lehmann"
   },
   "license": "MIT",
   "keywords": ["beginner", "starter", "copywriting", "landing-pages", "editing", "anti-slop", "decision-making", "solopreneur", "claude-cowork"]

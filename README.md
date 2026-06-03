@@ -7,4 +7,4 @@ Five beginner-friendly AI skills that get you doing real work with Claude in an 
 4. Make it sound human — strip the AI tells out of any writing.
 5. Get advice on any decision — a council of 5 AI advisors who challenge each other, then give you one answer.
 ## License
-MIT. Built by Ole Lehmann (https://www.theaisolopreneur.com).
+MIT. Built by Ole Lehmann.
